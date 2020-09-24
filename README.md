@@ -14,13 +14,13 @@ Contributor | Description
 -----|------- 
 
 ### Silverlight to Uno Platform
-Name | Description 
+Contributor | Description 
 -----|-------
 
 ### WCF to gRPC
-Name | Description 
+Contributor | Description 
 -----|-------
 
 ### Updating outdated UI controls 
-Name | Description 
+Contributor | Description 
 -----|-------
