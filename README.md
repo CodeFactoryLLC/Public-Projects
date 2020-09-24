@@ -10,18 +10,14 @@ We recognize that most of the best ideas for automation will come from the creat
 This directory contains links to community projects that are leveraging CodeFactory SDK.  Please click on each item found below to get further details.
 
 ### MVC to .Net Core/Blazor
-Name | Description 
+Contributor | Description 
 -----|------- 
 
-### Angular to Blazor
-Name | Description 
------|------- 
-
-### Silverlight to .Net Core
+### Silverlight to Uno Platform
 Name | Description 
 -----|-------
 
-### WPF to gRPC
+### WCF to gRPC
 Name | Description 
 -----|-------
 
