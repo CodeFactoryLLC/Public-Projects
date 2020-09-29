@@ -7,7 +7,7 @@ We recognize that most of the best ideas for automation will come from the creat
 (more coming soon... under construction)
 
 ## Transformation & Modernization
-This directory contains links to community projects that are leveraging CodeFactory SDK.  Please click on each item found below to get further details.
+This directory is under construction, and will contain links to community-sourced projects that are leveraging CodeFactory SDK.  Please click on each item found below to get further details.
 
 ### MVC to .Net Core/Blazor
 Contributor | Description 
