@@ -21,6 +21,6 @@ Contributor | Description
 Contributor | Description 
 -----|-------
 
-### Updating outdated UI controls 
+### WinForms to WinUI/.NET Maui 
 Contributor | Description 
 -----|-------
