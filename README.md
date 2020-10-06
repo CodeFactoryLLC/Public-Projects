@@ -13,7 +13,7 @@ We recognize that many creative ideas for automation will come from the creator 
 * Architecture/ASP.Net Add Logging 
 * Architecture/XAML Add Logging 
 
-(more coming soon... under construction)
+### (Coming soon: Video Tutorials for building your first CodeFactory Automation Commands - Watch this space!)
 
 ***
 ## Transformation & Modernization
