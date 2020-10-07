@@ -39,10 +39,10 @@ We've created a few issues tagged with #HelpWanted to indicate where we think th
 
 ### Build New or Improve Existing Packages?
 
-A good primer on how to build a publish your own CodeFactory Command Automation is available [here](http://docs.codefactory.software/guidance/usage-intro.html).
+A good primer on how to build a publish your own CodeFactory Automation Command is available [here](http://docs.codefactory.software/guidance/usage-intro.html).
 
 When [Designing Software Factories with CodeFactory](http://docs.codefactory.software/guidance/design/intro.html)
-the possibilities of code automation are only limited by the .NET framework and the imagination of the Automation Template author. 
+the possibilities of code automation are only limited by the .NET framework and the imagination of the automation template author. 
 
 We've identified two basic categories that have seperate design constraints and intents. These are Greenfield and Refactor scenarios.
 
@@ -64,7 +64,7 @@ Refactor code automation templates allow the Code Automation template author to 
 * Pull the logic from a web application and turn it into a set of Micro-Services
 * Dynamically identify Data Layer service code and re-write it for a different storage platform (Oracle->Microsoft, Relational -> NoSQL, etc)
 
-### Extending or improving published CodeFactory Command Automation packages
+### Extending or improving published CodeFactory Automation Command packages
 
 ADD - HOW TO - PULL REQUEST PROCESS
 
