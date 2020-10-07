@@ -28,7 +28,9 @@ In order to author a new automation template, or modify an existing template, yo
 
 Once those two dependencies are taken care of, you will have the ability to create a File -> New -> CodeFactory - Commands Library project. This template along with its sister, CodeFactory - Automation Library are included with Visual Studio from the CodeFactory SDK installer.
 
-Because CodeFactory is so extensible, it's possible that a feature you've become accustomed to or an issue you're encountering isn't coming from a bundled package at in this repository at all, but rather a community package you've installed. Each community package has its own repository too, the [Contributor FAQ] has instructions on how to contact the maintainers of any community package. 
+### What is a CodeFactory "Automation Command"?
+
+The way in which a CodeFactory Automation template works with your code is via one or more Commands that are defined within a Command Library. Currently - there are seven (7) different kinds of commands that CodeFactory makes available to authors. [Learn more here](http://docs.codefactory.software/guidance/overview-commands-intro.html).
 
 # How Can I Contribute? 
 
