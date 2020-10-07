@@ -20,7 +20,11 @@ Note: Please don't file an issue to ask a question. You'll get faster results by
 
 While the CodeFactory RT client is a commercial product, a wide variety of open-source Automation Commands are publicly available for you to use, clone, modify, etc.  
 
-In order to author a new automation template, or modify an existing template, you will need to have both an active CodeFactory Runtime [Request Trial Copy Here](https://www.codefactory.software/try-codefactory)client installed (as an extension into your copy of Visual Studio 2019). Additionally, you will need to download and install the CodeFactory SDK ( [NuGet Link](https://www.nuget.org/packages/CodeFactorySDK/) ) into the same install of Visual Studio that you have your CodeFacory Runtime installed into.
+In order to author a new automation template, or modify an existing template, you will need to have both an active CodeFactory Runtime client installed (as an extension into your copy of Visual Studio 2019). Additionally, you will need to download and install the CodeFactory SDK into the same install of Visual Studio that you have your CodeFacory Runtime installed into.
+
+* [Request Trial Copy of CodeFactory RT Here](https://www.codefactory.software/try-codefactory)
+
+* [Download the CodeFactory SDK on NuGet](https://www.nuget.org/packages/CodeFactorySDK/) 
 
 Once those two dependencies are taken care of, you will have the ability to create a File -> New -> CodeFactory - Commands Library project. This template along with its sister, CodeFactory - Automation Library are included with Visual Studio from the CodeFactory SDK installer.
 
