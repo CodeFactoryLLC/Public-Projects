@@ -13,6 +13,8 @@ We recognize that many creative ideas for automation will come from the creator 
 * Architecture/ASP.Net Add Logging 
 * Architecture/XAML Add Logging 
 
+Additionally there are several issues tagged with #HelpWanted if you want to jump in. Just post a comment in [any of these issues](https://github.com/CodeFactoryLLC/Public-Projects/issues) to get guidance on getting started from our team. 
+
 ### (Coming soon: Video Tutorials for building your first CodeFactory Automation Commands - Watch this space!)
 
 ***
