@@ -22,15 +22,23 @@ We have an official message board with a detailed FAQ where the CodeFactory comm
 
 While the CodeFactory RT client is a commercial product, a wide variety of open-source Automation Commands are publicly available for you to use, clone, modify, etc.  
 
+In order to author a new automation template, or modify an existing template, you will need to have both an active CodeFactory Runtime [Request Trial Copy Here](https://www.codefactory.software/try-codefactory)client installed (as an extension into your copy of Visual Studio 2019). Additionally, you will need to download and install the CodeFactory SDK ( [NuGet Link](https://www.nuget.org/packages/CodeFactorySDK/) ) into the same install of Visual Studio that you have your CodeFacory Runtime installed into.
+
+Once those two dependencies are taken care of, you will have the ability to create a File -> New -> CodeFactory - Commands Library project. This template along with its sister, CodeFactory - Automation Library are included with Visual Studio from the CodeFactory SDK installer.
+
 Because CodeFactory is so extensible, it's possible that a feature you've become accustomed to or an issue you're encountering isn't coming from a bundled package at in this repository at all, but rather a community package you've installed. Each community package has its own repository too, the [Contributor FAQ] has instructions on how to contact the maintainers of any community package. 
 
 # How Can I Contribute? 
+
+### Accessing #HelpWanted Issues
+We've created a few issues tagged with #HelpWanted to indicate where we think there would be significant interest once an automation has been authorided and published. We monitor the [Issue List](https://github.com/CodeFactoryLLC/Public-Projects/issues) for any questions or support needs you might have to get started building your own custom CodeFactory Automation Command packages.
 
 ### Build New or Improve Existing Packages?
 
 A good primer on how to build a publish your own CodeFactory Command Automation is available [here](http://docs.codefactory.software/guidance/usage-intro.html).
 
 ### Extending or improving published CodeFactory Command Automation packages
+
 ADD - HOW TO - PULL REQUEST PROCESS
 
 ### Reporting Bugs 
@@ -42,8 +50,6 @@ Before creating bug reports, please check [this list] as you might find out that
 Note: If you find a Closed issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one. 
 
 ### Before Submitting A Bug Report 
-
-SECTION UNDER DEVELOPMENT 
 
 Check the FAQs on the forum for a list of common questions and problems. 
 
