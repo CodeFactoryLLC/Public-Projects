@@ -31,6 +31,6 @@ Contributor | Description
 Contributor | Description 
 -----|-------
 
-### WinForms to WinUI/.NET Maui 
+### WinForms to WinUI or Xamarin
 Contributor | Description 
 -----|-------
