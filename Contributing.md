@@ -30,7 +30,20 @@ Once those two dependencies are taken care of, you will have the ability to crea
 
 ### What is a CodeFactory "Automation Command"?
 
-The way in which a CodeFactory Automation template works with your code is via one or more Commands that are defined within a Command Library. Currently - there are seven (7) different kinds of commands that CodeFactory makes available to authors. [Learn more here](http://docs.codefactory.software/guidance/overview-commands-intro.html).
+The way in which a CodeFactory Automation template works with your code is via one or more Commands that are defined within a Command Library. Currently - there are seven (7) different kinds of commands that CodeFactory makes available to authors. 
+
+#### Command Types
+Name | Description
+-----|-------
+Solution | Like its name suggests, this command is used when an author wishes to begin code automation logic while starting at the top-most node (ie. Solution) of the Visual Studio Solution Explorer. Please see here for more details about this command.
+Solution Document | This command is used to begin a command from any document that lives at the Solution level within Visual Studio. Please see Solution Document for more details.
+Solution Folder | This command sets the context for a code automation at a folder node within the Visual Studio Explorer hierarchy. Please see Solution Folder for more details.
+Project | This command sets the context for a code automation at the Project node within the Visual Studio Solution Explorer window. Please see Project Command for details.
+Project Folder | This command sets the context for a code automation at Folder within a Project node in the Visual Studio Solution Explorer. Please see Project Folder for more details.
+Project Document | This command is for any node within a Project hierarchy that is not a folder or the project node itself. Project documents can be anything that you are allowed to add into a project per normal Visual Studio rules. Examples include; xml, config, png, bmp, js, html, java, ps, etc. Please see Project Document for more details.
+CSharp Source | This command is a special case of the Project Document case. CodeFactory will pass into your command class a real-time model of any C# source code artifacts found within a *.cs file in the target Solution. Usually these files are found under a Project Node within the Solution Explorer - but not always. Please see C# Source for more details.
+
+[Learn more here](http://docs.codefactory.software/guidance/overview-commands-intro.html).
 
 # How Can I Contribute? 
 
