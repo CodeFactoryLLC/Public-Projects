@@ -9,11 +9,9 @@ The following is a set of guidelines for contributing to CodeFactory and its ope
 This project and everyone participating in it is governed by the CodeFactory [Code of Conduct](https://github.com/CodeFactoryLLC/Public-Projects/blob/master/Code_Of_Conduct.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to support@codefactory.software. 
 
 ***
-I don't want to read this whole thing I just have a question!!! 
+#### I don't want to read this whole thing I just have a question!!! 
 
-Note: Please don't file an issue to ask a question. You'll get faster results by using the resources below. 
-
-We have an official message board with a detailed FAQ where the CodeFactory community chimes in with helpful advice and/or questions. (LINK?StackOverflow or ??) 
+Note: Please don't file an issue to ask a question. You'll get faster results by submitting your questions on our [Support Page](https://www.codefactory.software/support).
 ***
 
 # What should I know before I get started? 
@@ -36,6 +34,29 @@ We've created a few issues tagged with #HelpWanted to indicate where we think th
 ### Build New or Improve Existing Packages?
 
 A good primer on how to build a publish your own CodeFactory Command Automation is available [here](http://docs.codefactory.software/guidance/usage-intro.html).
+
+When [Designing Software Factories with CodeFactory](http://docs.codefactory.software/guidance/design/intro.html)
+the possibilities of code automation are only limited by the .NET framework and the imagination of the Automation Template author. 
+
+We've identified two basic categories that have seperate design constraints and intents. These are Greenfield and Refactor scenarios.
+
+#### Greenfield Code Automation
+These types of code automation templates will generate brand new code artifacts from a model or an interface. We have found during testing that the most effective use of these kinds of templates focus on enforcing code discipline and patterns that have been selected by Architecture or Designers of the target system. Examples of these kind of templates would be:
+
+* Generate a Service (JSON, WebService, WCF, etc) from an Entity or POCO object
+* Build/insert logging code into a class(es)
+* Build/insert/enforce Exception handling into your codebase
+* Build all of the service registration code intelligently in a target project
+* Build an object mapper extension method between an internal model and an external source (DB, service, etc)
+
+#### Refactor Code Automation
+Refactor code automation templates allow the Code Automation template author to build a series of Automation Commands that are designed for converting one kind of code artifact into another. You can look at several of the reference projects that our team has shared for examples like #WebFormsToBlazor. Other examples might include:
+
+* Migration WebForms *.aspx code to Blazor
+* Migration older versions of .NET framework code to a newer version
+* Update ASP.MVC
+* Pull the logic from a web application and turn it into a set of Micro-Services
+* Dynamically identify Data Layer service code and re-write it for a different storage platform (Oracle->Microsoft, Relational -> NoSQL, etc)
 
 ### Extending or improving published CodeFactory Command Automation packages
 
