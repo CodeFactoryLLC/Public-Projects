@@ -77,10 +77,6 @@ Refactor code automation templates allow the Code Automation template author to 
 * Pull the logic from a web application and turn it into a set of Micro-Services
 * Dynamically identify Data Layer service code and re-write it for a different storage platform (Oracle->Microsoft, Relational -> NoSQL, etc)
 
-### Extending or improving published CodeFactory Automation Command packages
-
-UNDER CONSTRUCTION -- ADD - HOW TO - PULL REQUEST PROCESS
-
 ### Reporting Bugs 
 
 This section guides you through submitting a bug report for open source content. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports. 
