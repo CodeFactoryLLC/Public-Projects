@@ -79,7 +79,7 @@ Refactor code automation templates allow the Code Automation template author to 
 
 ### Extending or improving published CodeFactory Automation Command packages
 
-ADD - HOW TO - PULL REQUEST PROCESS
+UNDER CONSTRUCTION -- ADD - HOW TO - PULL REQUEST PROCESS
 
 ### Reporting Bugs 
 
