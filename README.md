@@ -19,7 +19,7 @@ Additionally there are several issues tagged with #HelpWanted if you want to jum
 
 ***
 ## Transformation & Modernization
-This directory is under construction, and will contain links to community-sourced projects that are leveraging CodeFactory SDK.  Please click on each item found below to get further details.
+This directory is under construction, and will contain links to community-sourced projects that are leveraging CodeFactory SDK.  If you're interested in exploring or claiming one of the #HelpWanted projects, head over to the [Issues Page](https://github.com/CodeFactoryLLC/Public-Projects/issues) and add your comments and we'll flag the conversion scenario as "claimed". 
 
 ### MVC to .Net Core/Blazor
 Contributor | Description 
