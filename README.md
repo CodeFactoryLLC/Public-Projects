@@ -27,6 +27,11 @@ Contributor | Description
 -----|-------
 [HyperLLC](https://github.com/HyperLLC/WebFormsToDotNet5Commands)|CodeFactory Command library that provides a reference automation implementation to convert an existing webforms project to an ASP.Net MVC Razor .Net 5 project.
 
+### Reference Implementation for .NET 5 projects 
+Contributor | Description 
+-----|-------
+[HyperLLC](https://github.com/HyperLLC/WebFormsToDotNet5Commands)|CodeFactory Command library that provides a reference implementation of automation for ASP.Net .Net 5 projects.
+
 ### MVC to .Net Core/Blazor
 Contributor | Description 
 -----|------- 
