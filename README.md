@@ -30,7 +30,7 @@ Contributor | Description
 ### Reference Implementation for .NET 5 projects 
 Contributor | Description 
 -----|-------
-[HyperLLC](https://github.com/HyperLLC/WebFormsToDotNet5Commands)|CodeFactory Command library that provides a reference implementation of automation for ASP.Net .Net 5 projects.
+[HyperLLC](https://https://github.com/HyperLLC/DotNet5Commands)|CodeFactory Command library that provides a reference implementation of automation for ASP.Net .Net 5 projects.
 
 ### MVC to .Net Core/Blazor
 Contributor | Description 
