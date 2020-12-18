@@ -15,7 +15,10 @@ We recognize that many creative ideas for automation will come from the creator 
 
 Additionally there are several issues tagged with #HelpWanted if you want to jump in. Just post a comment in [any of these issues](https://github.com/CodeFactoryLLC/Public-Projects/issues) to get guidance on getting started from our team. 
 
-### (Coming soon: Video Tutorials for building your first CodeFactory Automation Commands - Watch this space!)
+### Video Tutorials
+[Building your first CodeFactory Automation Commands](https://www.youtube.com/watch?v=933pnjbM9hM)
+
+Subscribe to the [CodeFactory Channel](https://www.youtube.com/channel/UC1WjuZ_bRWK-EgVVP1Ciyvw) on YouTube to get notified whenever new videos are posted. 
 
 ***
 
