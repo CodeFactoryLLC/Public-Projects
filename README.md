@@ -33,7 +33,7 @@ Contributor | Description
 ### Reference Implementation for .NET 5 projects 
 Contributor | Description 
 -----|-------
-[HyperLLC](https://https://github.com/HyperLLC/DotNet5Commands)|Under construction: CodeFactory Command library that provides a reference implementation of automation for ASP.Net .Net 5 projects.
+[HyperLLC](https://github.com/HyperLLC/DotNet5Commands)|New! "CodeFactory Commands" library that provides a reference implementation of automation for ASP.Net .Net 5 projects. You can use this commands library to automate the code generation of the initial plumbing code for your views, partial views, models, interfaces, and navigation structure within an .Net 5 ASP.NET MVC Web Application. The best thing about this concept is that all of your plumbing and project artifacts are generated the same way EVERY time! Learn more about this project at [GoHyper](https://gohyper.io/portfolio/codefactory-code-generation) today.
 
 ### MVC to .Net Core/Blazor
 Contributor | Description 
