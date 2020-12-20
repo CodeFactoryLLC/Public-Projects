@@ -30,6 +30,11 @@ Contributor | Description
 -----|-------
 [HyperLLC](https://github.com/HyperLLC/WebFormsToDotNet5Commands)|Under contruction: CodeFactory Command library that provides a reference automation implementation to convert an existing webforms project to an ASP.Net MVC Razor .Net 5 project.
 
+### ASP.NET Webforms to Blazor Server 
+Contributor | Description 
+-----|-------
+[CodeFactory](https://github.com/CodeFactoryLLC/WebForms2BlazorServer)|This automation template was built using the CodeFactory SDK to automate the task of migrating/converting a legacy .NET WebForms web application over to an updated Blazor Server-side application. Includes: 1) Migrate a single .aspx page from a source WebForms project into a target Blazor project within the same solution; or 2) Migrate an entire WebForms project in bulk over to a target Blazor Server-side project.
+
 ### Reference Implementation for .NET 5 projects 
 Contributor | Description 
 -----|-------
