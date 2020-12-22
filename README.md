@@ -40,6 +40,11 @@ Contributor | Description
 -----|-------
 [HyperLLC](https://github.com/HyperLLC/DotNet5Commands)|New! "CodeFactory Commands" library that provides a reference implementation of automation for ASP.Net .Net 5 projects. You can use this commands library to automate the code generation of the initial plumbing code for your views, partial views, models, interfaces, and navigation structure within an .Net 5 ASP.NET MVC Web Application. The best thing about this concept is that all of your plumbing and project artifacts are generated the same way EVERY time! Learn more about this project at [GoHyper](https://gohyper.io/portfolio/codefactory-code-generation) today.
 
+### Working with Azure Table Repositories
+Contributor | Description 
+-----|------- 
+[csharpfritz](https://github.com/CodeFactoryLLC/CodeFactory.AzureTableRepository)| Use a WPF dialog with a CodeFactory command to generate a repository and objects for an Azure Table Storage account, based on a user-entered Azure connection string. Check out this [Tutorial](https://youtu.be/-8_V78IyMLw).
+
 ### MVC to .Net Core/Blazor
 Contributor | Description 
 -----|------- 
