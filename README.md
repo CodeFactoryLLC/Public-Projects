@@ -45,15 +45,16 @@ Contributor | Description
 -----|------- 
 [csharpfritz](https://github.com/CodeFactoryLLC/CodeFactory.AzureTableRepository)| UNDER CONSTRUCTION: Use a WPF dialog with a CodeFactory command to generate a repository and objects for an Azure Table Storage account, based on a user-entered Azure connection string. Check out this [Tutorial](https://youtu.be/-8_V78IyMLw).
 
+### WCF to gRPC
+Contributor | Description 
+-----|-------
+[CodeFactory]()| Coming Soon!
+
 ### MVC to .Net Core/Blazor
 Contributor | Description 
 -----|------- 
 
 ### Silverlight to Uno Platform
-Contributor | Description 
------|-------
-
-### WCF to gRPC
 Contributor | Description 
 -----|-------
 
