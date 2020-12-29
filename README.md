@@ -48,7 +48,7 @@ Contributor | Description
 ### WCF to gRPC
 Contributor | Description 
 -----|-------
-[CodeFactory](https://github.com/CodeFactoryLLC/WCF-To-gRPC)| Coming Soon! - A CodeFactory automation template that will help to migrate WCF services over to gRPC
+[CodeFactory](https://github.com/CodeFactoryLLC/WCF-To-gRPC)| An extendable CodeFactory automation template that is designed for the purpose of migrating legacy WCF code to modern gRPC code. This template is functional and works specifically on the majority use case, which is plain vanilla 2-way WCF calls. Please see the known limitations to understand how to extend this template. This template is offered as open-source and anyone can download and alter it to suit their needs.
 
 ### MVC to .Net Core/Blazor
 Contributor | Description 
