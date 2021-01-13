@@ -23,7 +23,7 @@ Subscribe to the [CodeFactory Channel](https://www.youtube.com/channel/UC1WjuZ_b
 ***
 
 ## Transformation & Modernization
-This directory is under construction, and will contain links to community-sourced projects that are leveraging CodeFactory SDK.  If you're interested in exploring or claiming one of the #HelpWanted projects, head over to the [Issues Page](https://github.com/CodeFactoryLLC/Public-Projects/issues) and add your comments and we'll flag the conversion scenario as "claimed". 
+This directory is updated frequently, and will contain links to community-sourced projects that are leveraging CodeFactory SDK.  If you're interested in exploring or claiming one of the #HelpWanted projects, head over to the [Issues Page](https://github.com/CodeFactoryLLC/Public-Projects/issues) and add your comments and we'll flag the conversion scenario as "claimed". 
 
 ### Webforms to ASP.Net MVC Razor .Net 5
 Contributor: [HyperLLC](https://github.com/HyperLLC/WebFormsToDotNet5Commands)
