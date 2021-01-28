@@ -11,22 +11,20 @@ This project and everyone participating in it is governed by the CodeFactory [Co
 ***
 #### I don't want to read this whole thing I just have a question!!! 
 
-Note: Please don't file an issue to ask a question. You'll get faster results by submitting your questions on our [Support Page](https://www.codefactory.software/support).
+Note: Please don't file an issue to ask a question. You'll get faster results by submitting your questions on our [Discussion Page](https://github.com/CodeFactoryLLC/Public-Projects/discussions).
 ***
 
 # What should I know before I get started? 
 
 ### CodeFactory and Community-authored Automation Packages 
 
-While the CodeFactory RT client is a commercial product, a wide variety of open-source Automation Commands are publicly available for you to use, clone, modify, etc.  
+While the CodeFactory for Visual Studio run-time client is a commercial product, a wide variety of open-source CodeFactory Automation Commands are publicly available for you to use, clone, modify, etc.  
 
 In order to author a new automation template, or modify an existing template, you will need to have both an active CodeFactory Runtime client installed (as an extension into your copy of Visual Studio 2019). Additionally, you will need to download and install the CodeFactory SDK into the same install of Visual Studio that you have your CodeFacory Runtime installed into.
 
-* [Request Trial Copy of CodeFactory RT Here](https://www.codefactory.software/try-codefactory)
+* [Request a trial copy of CodeFactory for Visual Studio here](https://www.codefactory.software/freetrial)
 
-* [Download the CodeFactory SDK on NuGet](https://www.nuget.org/packages/CodeFactorySDK/) 
-
-Once those two dependencies are taken care of, you will have the ability to create a File -> New -> CodeFactory - Commands Library project. This template along with its sister, CodeFactory - Automation Library are included with Visual Studio from the CodeFactory SDK installer.
+Once your license key is loaded, you will have the ability to create a File -> New -> CodeFactory - Commands Library project. This template along with its sister, CodeFactory - Automation Library are included with Visual Studio from the CodeFactory SDK installer.
 
 ### What is a CodeFactory "Automation Command"?
 
